@@ -1,5 +1,17 @@
 ### 
 
+## Stats
+
+<div align="center">
+  
+  ![streak](https://streak-stats.demolab.com?user=nunezMyles&theme=tokyonight&hide_border=true&background=0D1117)
+  
+  ![top langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nunezMyles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
 ## Languages and tools
 
 | Category | Icons |
@@ -18,14 +30,3 @@
 
 ---
 
-## Stats
-
-<div align="center">
-  
-  ![streak](https://streak-stats.demolab.com?user=nunezMyles&theme=tokyonight&hide_border=true&background=0D1117)
-  
-  ![top langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nunezMyles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
