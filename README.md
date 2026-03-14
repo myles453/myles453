@@ -10,6 +10,7 @@
 
 ---
 
+<!--
 ## Languages and tools
 
 | Category | Icons |
@@ -26,5 +27,4 @@
 
 <!-- | **DevOps / CI** | <img src="https://skillicons.dev/icons?i=docker,githubactions" alt="devops" /> | -->
 
----
 
