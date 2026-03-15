@@ -6,8 +6,6 @@
   
   ![streak](https://streak-stats.demolab.com?user=nunezMyles&theme=tokyonight&hide_border=true&background=0D1117)
 
-  <img src="https://skillicons.dev/icons?i=dart,golang,ts,js,cs,c,java,python,arduino" alt="backend" />
-
 </div>
 
 ---
