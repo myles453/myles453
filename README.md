@@ -10,7 +10,6 @@
 
 ---
 
-<!--
 ## Languages and tools
 
 | Category | Icons |
