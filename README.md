@@ -16,8 +16,8 @@
 | --- | --- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=dart,golang,ts,js,cs,c,java,python,arduino" alt="backend" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,flutter" alt="frontend" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi" alt="backend" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="databases" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=django,spring,fastapi" alt="backend" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" alt="databases" /> |
 | **Version control** | <img src="https://skillicons.dev/icons?i=github" alt="version control" /> |
 | **IDEs / editors** | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio" alt="ides" /> |
 | **Other tools** | <img src="https://skillicons.dev/icons?i=postman,scikitlearn,vercel" alt="Postman" /> |
