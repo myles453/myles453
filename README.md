@@ -14,7 +14,7 @@
 
 | Category | Icons |
 | --- | --- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=dart,golang,ts,js,cs,c,cpp,java,python,arduino" alt="backend" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=dart,ts,js,cs,c,cpp,java,python" alt="backend" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,flutter" alt="frontend" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=django,spring,fastapi" alt="backend" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" alt="databases" /> |
